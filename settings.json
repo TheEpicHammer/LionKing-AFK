@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "LionKing",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "lionkingkis.aternos.me",
     "port": 16724,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Made by TK",
         "I like to play Minecraft!"
       ]
     },
